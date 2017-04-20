@@ -50,6 +50,9 @@
      <Compile Include="Assets\Scripts\Login\Login.cs" />
      <Compile Include="Assets\Scripts\NetIO.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scripts\Pattern\AgencyPattern.cs" />
+     <Compile Include="Assets\Scripts\Pattern\ObservePatern.cs" />
+     <Compile Include="Assets\Scripts\Pattern\StrategyPattern.cs" />
      <Compile Include="Assets\Scripts\SerializeUtil.cs" />
      <Compile Include="Assets\Scripts\SocketModel.cs" />
      <Compile Include="Assets\Scripts\Test.cs" />
@@ -60,7 +63,7 @@
  <HintPath>F:/Unity5.3/install/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="Protocol">
- <HintPath>F:/zwj/UnityProject/Unity5.3/SocketDemo/Assets/Plugins/Protocol.dll</HintPath>
+ <HintPath>F:/GithubProject/SocketDemo/Assets/Plugins/Protocol.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -6,6 +6,8 @@ public class Test : MonoBehaviour {
 
 	void Start () {
         NetIO io = NetIO.Instance;
+
+    
 	}
 	
 	

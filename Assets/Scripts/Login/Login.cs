@@ -18,7 +18,7 @@ public class Login : MonoBehaviour {
 	
 	
 	void Update () {
-	
+	    
 	}
 
     private void OnLoginClick()
